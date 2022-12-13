@@ -875,6 +875,11 @@ align-items: center;
     font-size: 45px;
     opacity: .2;
 }
+.Friends .finally div a{
+    padding: 5px;
+    border-radius: 6px;
+    font-size: 14px;
+}
 /* end friends */
 
 /* start files */
